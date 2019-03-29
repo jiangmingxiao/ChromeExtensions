@@ -1,0 +1,7 @@
+{
+  "name": "crx",
+  "version": "1.0.0",
+  "description": "chrome插件",
+  "main": "index.js",
+  "license": "MIT"
+}
