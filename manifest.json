@@ -16,14 +16,17 @@
     "commands": {
         "test": {
             "suggested_key": {
-                "default": "Alt+1"
+                "default": "Alt+4"
             },
             "description": "test"
         }
     },
     "permissions": [
         "declarativeContent",
-        "tabs"
+        "tabs",
+        "activeTab",
+        "http://*/*",
+        "https://*/*"
     ],
     "background": {
         "scripts": [
